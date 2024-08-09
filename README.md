@@ -1,4 +1,43 @@
-<h1 align="center">Hi 👋, I'm Zafar</h1>
+<h1 style="
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: #34A853;
+  text-shadow: 2px 2px 4px #000000;
+  animation: pulse 2s infinite;
+  background-color: #000;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #000;
+  color: #fff;
+  animation: pulse 2s infinite;
+  -webkit-animation: pulse 2s infinite;
+  -moz-animation: pulse 2s infinite;
+  -o-animation: pulse 2s infinite;
+  animation-name: pulse;
+  -webkit-animation-name: pulse;
+  -moz-animation-name: pulse;
+  -o-animation-name: pulse;
+  animation-duration: 2s;
+  -webkit-animation-duration: 2s;
+  -moz-animation-duration: 2s;
+  -o-animation-duration: 2s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  transform: scale(1);
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -o-transform: scale(1);
+  transition: transform 2s;
+  -webkit-transition: -webkit-transform 2s;
+  -moz-transition: -moz-transform 2s;
+  -o-transition: -o-transform 2s;
+  align="center";
+">
+  Muhammad Zafar ul haq
+</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zafar1162014&label=Profile%20views&color=0e75b6&style=flat" alt="zafar1162014" /> </p>
