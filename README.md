@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zafar1162014" alt="zafar1162014" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zafar" target="blank"><img src="https://img.shields.io/twitter/follow/zafar?logo=twitter&style=for-the-badge" alt="zafar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zafar1162014" target="blank"><img src="https://img.shields.io/twitter/follow/zafar?logo=twitter&style=for-the-badge" alt="zafar" /></a> </p>
 
 - Credit Card Fraud Detection [Credit Card Fraud Detection](https://github.com/zafar1162014/Credit-Card-Fraud-Detection)
 
