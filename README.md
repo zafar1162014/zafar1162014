@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zafar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammadzafarulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadzafarulhaq" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadzafarulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadzafarulhaq" height="30" width="40" /></a>
+<a href="https://x.com/zafar1162014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zafar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-zafar-ul-haq-1162014fd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadzafarulhaq" height="30" width="40" /></a>
+<a href="https://web.facebook.com/zafarulhaq1162014?mibextid=ZbWKwL&_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadzafarulhaq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
